@@ -1,2 +1,0 @@
-My Quiz Game
-
